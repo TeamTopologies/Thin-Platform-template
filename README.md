@@ -7,7 +7,7 @@ A simple template for a wiki page for a TVP (thinnest viable platform) - as expl
 
 ## Overview
 
-A simple but comprehensive wiki page for the platform provides a coherent single point of entry for anyone wanting to know more about a service, report an issue or find out the current status, roadmap and so on.
+A simple but comprehensive wiki page for the platform provides a single point of entry for anyone wanting to know more about a service, report an issue or find out the current status, roadmap and so on.
 
 ## How to use
 
