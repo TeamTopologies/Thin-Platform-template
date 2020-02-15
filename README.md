@@ -21,18 +21,22 @@ Platform hours of operation:
 * Short service description/purpose:
 * Live status page:
 
+##### Documentation
 * Link to onboarding documentation:
 * Link to service interface documentation:  
 * Here's a simple example of service usage:
 
+##### Response times
 * Responsible platform team name:
 * Platform team response time for major incidents: 
 * Platform team response time for other incidents:
 * Platform team response time for support:
 * Platform team response time for feedback:
 
+##### Roadmap
 * Link to service roadmap: 
 
+##### Communication channels
 _To report a possible incident_
 
 Contact exclusively via:
