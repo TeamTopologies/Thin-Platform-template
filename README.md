@@ -19,19 +19,14 @@ A simple template for a wiki page for a TVP (thinnest viable platform) - as expl
 * Platform team response time in case of major incident: 
 * Platform team response time in all other cases:
 
-_To ask for help_ 
-Contact via:
-* Slack (Yes/No) - Channel:
-* Email (Yes/No) - Email address:
-* Phone (Yes/No) - Phone number:
-* Office hours - Day and time of the week:
-
 _To report a possible incident_
+
 Contact via:
 * Slack - Channel:
 * Phone - Phone number:
 
-_To provide feedback on the service or the platform_
+_To ask for help, information, or provide feeback_ 
+
 Contact via:
 * Slack (Yes/No) - Channel:
 * Email (Yes/No) - Email address:
