@@ -7,22 +7,31 @@ A simple template for a wiki page for a TVP (thinnest viable platform) - as expl
 
 ## Overview
 
+A simple but comprehensive wiki page for the platform will provide coherent point of entry for anyone wanting to know more about a service, report an issue or find out the current status, roadmap and so on.
 
 ## How to use
 
+Each team responsible for a platform service should answer the questions and fill in the details below. 
 
 ### (Thin) platform wiki
+
+Platform hours of operation: 
 
 #### Service A
 * Short service description/purpose:
 * Live status page:
 
+* Link to onboarding documentation:
 * Link to service interface documentation:  
-* Here's an example of service usage:
+* Here's a simple example of service usage:
 
 * Responsible platform team name:
-* Platform team response time in case of major incident: 
-* Platform team response time in all other cases:
+* Platform team response time for major incidents: 
+* Platform team response time for other incidents:
+* Platform team response time for support:
+* Platform team response time for feedback:
+
+* Link to service roadmap: 
 
 _To report a possible incident_
 
@@ -30,7 +39,7 @@ Contact exclusively via:
 * Slack - Channel:
 * Phone - Phone number:
 
-_To ask for help, information, or provide feeback_
+_To ask for support or provide feeback_
 
 Contact via any of these:
 * Slack - Channel:
