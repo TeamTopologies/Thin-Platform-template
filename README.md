@@ -24,13 +24,13 @@ A simple template for a wiki page for a TVP (thinnest viable platform) - as expl
 * Platform team response time in case of major incident: 
 * Platform team response time in all other cases:
 
-_To report a possible incident_
+##### To report a possible incident
 
 Contact exclusively via:
 * Slack - Channel:
 * Phone - Phone number:
 
-_To ask for help, information, or provide feeback_ 
+##### To ask for help, information, or provide feeback
 
 Contact via any of these:
 * Slack - Channel:
