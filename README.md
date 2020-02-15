@@ -11,13 +11,13 @@ A simple but comprehensive wiki page for the platform provides a single point of
 
 ## How to use
 
-Each team responsible for a platform service should answer the questions and fill in the details below. 
+Each team responsible for a platform service should answer the questions and fill in the details below. Repeat the _Service details_ for each service that the team builds & runs.
 
 ### (Thin) platform wiki
 
 Platform hours of operation: 
 
-#### Service A
+#### Service details
 * Short service description/purpose:
 * Live status page:
 
@@ -51,6 +51,6 @@ Contact via any of these:
 * Phone - Phone number:
 * Office hours - Day and time of the week:
 
-#### Service B
-...
+---
 
+(Repeat these _Service details_ for other services operated by the team)
