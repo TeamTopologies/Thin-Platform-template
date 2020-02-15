@@ -12,3 +12,32 @@ A simple template for a wiki page for a TVP (thinnest viable platform) - as expl
 
 
 ### (Thin) platform wiki
+
+#### Service A
+* Short description:
+* Status page:
+* Platform team response time in case of major incident: 
+* Platform team response time in all other cases:
+
+_To ask for help_ 
+Contact via:
+* Slack (Yes/No) - Channel:
+* Email (Yes/No) - Email address:
+* Phone (Yes/No) - Phone number:
+* Office hours - Day and time of the week:
+
+_To report a possible incident_
+Contact via:
+* Slack - Channel:
+* Phone - Phone number:
+
+_To provide feedback on the service or the platform_
+Contact via:
+* Slack (Yes/No) - Channel:
+* Email (Yes/No) - Email address:
+* Phone (Yes/No) - Phone number:
+* Office hours - Day and time of the week:
+
+#### Service B
+...
+
