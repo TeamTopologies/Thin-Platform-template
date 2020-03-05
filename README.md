@@ -1,4 +1,4 @@
-# Thin-Platform-template
+# Thin Platform template
 A simple template for a wiki page for a TVP (thinnest viable platform) - as explained in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable).
 
 > See [teamtopologies.com](https://teamtopologies.com/) for more details about Team Topolologies.
