@@ -43,7 +43,7 @@ Contact exclusively via:
 * Slack - Channel:
 * Phone - Phone number:
 
-_To ask for support or provide feeback_
+_To ask for support or provide feedback_
 
 Contact via any of these:
 * Slack - Channel:
